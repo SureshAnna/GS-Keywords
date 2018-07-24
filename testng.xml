@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite  data-provider-thread-count="1" name="GS UI Tests">
+  <test name="com.trinet.framework.core.ManageCustomFieldsTestDriver">
+    <classes>
+      <class name="com.trinet.framework.core.ManageCustomFieldsTestDriver"/>
+    </classes>
+  </test>
+</suite>

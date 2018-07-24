@@ -1,0 +1,6 @@
+
+After cloning the Project add above setting.xml under .m2 directory in your file system
+
+Remove repository folder if you have under .m2 directory
+
+Perform Maven clean and install

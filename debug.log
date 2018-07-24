@@ -1,0 +1,24 @@
+[0117/094349.073:ERROR:process_info.cc(632)] range at 0x126332fe00000000, size 0xb1 fully unreadable
+[0117/094349.077:ERROR:process_info.cc(632)] range at 0x1263331e00000000, size 0xb1 fully unreadable
+[0117/094349.078:ERROR:process_info.cc(632)] range at 0x0, size 0xb1 fully unreadable
+[0117/094349.093:ERROR:file_io_win.cc(161)] CreateFile C:\Users\nrai\AppData\Local\Temp\21\scoped_dir29236_32696\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0117/094349.094:ERROR:file_io_win.cc(170)] CreateFile C:\Users\nrai\AppData\Local\Temp\21\scoped_dir29236_32696\Crashpad\reports\405ee194-5fa4-4d33-a791-6ae8f764409c.dmp: The system cannot find the path specified. (0x3)
+[0117/094349.096:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0117/094414.625:ERROR:process_info.cc(632)] range at 0x43a532fe00000000, size 0x81 fully unreadable
+[0117/094414.632:ERROR:process_info.cc(632)] range at 0x43a5331e00000000, size 0x81 fully unreadable
+[0117/094414.632:ERROR:process_info.cc(632)] range at 0x0, size 0x81 fully unreadable
+[0117/094414.640:ERROR:file_io_win.cc(161)] CreateFile C:\Users\nrai\AppData\Local\Temp\21\scoped_dir18672_13501\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0117/094414.642:ERROR:file_io_win.cc(170)] CreateFile C:\Users\nrai\AppData\Local\Temp\21\scoped_dir18672_13501\Crashpad\reports\abe4924e-4621-4ea2-ab4a-c5f398aa250b.dmp: The system cannot find the path specified. (0x3)
+[0117/094414.642:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0221/114950.049:ERROR:process_info.cc(632)] range at 0x131938ee00000000, size 0xf7 fully unreadable
+[0221/114950.069:ERROR:process_info.cc(632)] range at 0x1319390e00000000, size 0xf7 fully unreadable
+[0221/114950.070:ERROR:process_info.cc(632)] range at 0x0, size 0xf7 fully unreadable
+[0221/114950.080:ERROR:file_io_win.cc(161)] CreateFile C:\Users\nrai\AppData\Local\Temp\67\scoped_dir44524_24515\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0221/114950.082:ERROR:file_io_win.cc(170)] CreateFile C:\Users\nrai\AppData\Local\Temp\67\scoped_dir44524_24515\Crashpad\reports\2fbae0f9-df59-4ce7-8b15-ab49bd3d0dd5.dmp: The system cannot find the path specified. (0x3)
+[0221/114950.082:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0221/114952.285:ERROR:process_info.cc(632)] range at 0x863d38ee00000000, size 0xec fully unreadable
+[0221/114952.293:ERROR:process_info.cc(632)] range at 0x863d390e00000000, size 0xec fully unreadable
+[0221/114952.294:ERROR:process_info.cc(632)] range at 0x0, size 0xec fully unreadable
+[0221/114952.303:ERROR:file_io_win.cc(161)] CreateFile C:\Users\nrai\AppData\Local\Temp\67\scoped_dir32396_20792\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0221/114952.305:ERROR:file_io_win.cc(170)] CreateFile C:\Users\nrai\AppData\Local\Temp\67\scoped_dir32396_20792\Crashpad\reports\499a5b3f-176d-4920-9885-9598f4d84207.dmp: The system cannot find the path specified. (0x3)
+[0221/114952.305:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
